@@ -18,7 +18,7 @@ A light weight plugin to use ChatSonic API in Unity projects at runtime. Feature
 
 ## Limitations
 
-* Currently, all features are just bare-minimum tested, as I'm using a free trial ChatSonic account and don't have enough words for thorough tests.
+* Currently, all features are just bare-minimum tested, as I'm using a free trial ChatSonic account and don't have enough "words" for thorough tests.
 
 * This plugin only works at runtime, which means it can just run at play mode in Unity editor, and run after you build the game. It doesn't work at edit mode in Unity editor. However, if you'd like to use ChatSonic in design phase, you can simply make it through run this plugin at play mode in Unity editor and save your history data through a ScriptableObject. 
 
